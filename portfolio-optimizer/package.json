@@ -1,0 +1,9 @@
+{
+  "name": "indian-mutual-fund-optimizer",
+  "version": "1.0.0",
+  "description": "Indian Mutual Fund Portfolio Optimizer dashboard",
+  "scripts": {
+    "serve": "npx http-server . -o",
+    "start": "npx http-server . -o"
+  }
+}

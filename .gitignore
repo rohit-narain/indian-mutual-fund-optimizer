@@ -1,4 +1,14 @@
+# Node dependencies
 node_modules/
+
+# Ignore RSS News Fetcher project files (at root)
+/index.js
+/google_news_india.html
+/india_news.md
+/package.json
+/package-lock.json
+
+# Temporary/OS files
 .gemini/
 .DS_Store
 Thumbs.db
